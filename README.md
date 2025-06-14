@@ -135,8 +135,12 @@ python eval_clip-vit2clip-cnn.py --config ./configs/Retrieval_flickr.yaml \
 
 If you find this work useful, please consider citing it:
 ```bibtex
-@article{silvaattacking,
-  title={Attacking Attention of Foundation Models Disrupts Downstream Tasks},
-  author={Silva, Hondamunige Prasanna and Becattini, Federico and Seidenari, Lorenzo}
-}
-```
+@InProceedings{Silva_2025_CVPR,
+    author    = {Silva, Hondamunige Prasanna and Becattini, Federico and Seidenari, Lorenzo},
+    title     = {Attacking Attention of Foundation Models Disrupts Downstream Tasks},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops},
+    month     = {June},
+    year      = {2025},
+    pages     = {3534-3543}
+}```
+
